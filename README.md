@@ -1,4 +1,5 @@
 *Details about our Streamlit app that we deploy on Hugging Face Space:*
+
 ---
 title: AI Exposure Job Transition Recommender
 colorFrom: blue
