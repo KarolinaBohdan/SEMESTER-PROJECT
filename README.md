@@ -13,8 +13,9 @@ with lower AI exposure based on skill similarity and exposure scores.
 
 Built using O*NET occupation data and AI exposure scores calculated by ILO.
 
+---
 *The way we build our project:*
-
+---
 PROJECT TITLE: Career Transitions and Skill Requirements in an AI-Exposed Labour Market
 Remember to install all the packages from requirements.txt
 
